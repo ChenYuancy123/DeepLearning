@@ -1,0 +1,7 @@
+utils==1.0.1
+tf_nightly_gpu==2.5.0.dev20201201
+numpy==1.19.4
+opencv_python==4.4.0.46
+matplotlib==3.3.3
+ipython==7.21.0
+tensorflow==2.4.1
